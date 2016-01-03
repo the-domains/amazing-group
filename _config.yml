@@ -1,7 +1,7 @@
 name: Amazing Group
 favicon: null
 layout_spectrum: 0.36325591313652694
-typography_spectrum: 0.7842763424851
+typography_spectrum: 0.34215
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.08965952368453145
-  lightness: 0.3088165398221463
-  saturation: 0.8621336258947849
-  rhythmicContrast: 0.6337618420366198
+    - '#231f20'
+    - '#fef035'
+    - '#1eb4ed'
+    - '#73bd4c'
+    - '#e9168c'
+  brandStrength: 0.5
+  lightness: 0.875
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
